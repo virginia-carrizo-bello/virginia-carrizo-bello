@@ -3,7 +3,7 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252ZTNnc2Z2Z3k1NzIzcW1zdDViOWViYnUwZWRwczhjMmVibmxyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dJCdsUHUi13GnAU0wC/giphy.gif" alt="smile" width="100"/>
   </p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7131F7&center=true&width=700&height=110&lines=Hello+%F0%9F%91%8B%2C+I'm+Virginia+from+Argentina;I'm+an+AI+Developer+focused+on+Computer+Vision%2C+NLP%2FLLMs%2C+and+AI+Agents;Thanks+for+visiting+my+GitHub!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7131F7&center=true&width=700&height=110&lines=Hello+%F0%9F%91%8B%2C+I'm+Virginia+from+Argentina;AI+Developer+focused+on+Computer+Vision;NLP%2FLLMs+and+AI+Agents;Thanks+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">Find me in:</h3>
