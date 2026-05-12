@@ -4,15 +4,9 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Virginia%20Carrizo%20Bello&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descSize=16" 
   />
 
-  <img 
-    src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
-    alt="AI robot" 
-    width="160"
-  />
-
 </div>
 
-
+---
 
 <h3 align="center">Building intelligent systems with Computer Vision, LLMs and AI Agents</h3>
 
