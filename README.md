@@ -1,8 +1,19 @@
 <div id="header" align="center">
 
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Virginia%20Carrizo%20Bello&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descSize=16" 
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Virginia%20Carrizo%20Bello&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descSize=16"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=e5e7eb&height=180&section=header&text=Virginia%20Carrizo%20Bello&fontSize=36&fontColor=111827&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descSize=16"
+    />
+    <img 
+      alt="Virginia Carrizo Bello - AI Developer" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Virginia%20Carrizo%20Bello&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=58&descSize=16"
+    />
+  </picture>
 
 </div>
 
