@@ -16,7 +16,6 @@
   </picture>
 
 </div>
---
 
 <h3 align="center">Building intelligent systems with Computer Vision, LLMs and AI Agents</h3>
 
